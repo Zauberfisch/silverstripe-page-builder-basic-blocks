@@ -1,0 +1,24 @@
+de:
+  MysiteLinkField:
+    LinkModeCustom: 'Externer Link'
+    LinkModeNone: 'kein Link'
+    LinkModePage: Seite
+  PageBuilder_Value_Block_ImageBanner_ContentElement:
+    __PLURALNAME: 'Page Builder Value Block Image Banner Content Elements'
+    __SINGULARNAME: 'Page Builder Value Block Image Banner Content Element'
+    db_Height: Höhe
+    db_LinkCustomURL: 'Externer Link'
+    db_LinkMode: 'Link Typ'
+    db_LinkNewTab: 'Link in neuem Tab öffnen'
+    db_Title: Überschrift
+    has_one_Image: Bild
+    has_one_LinkPage: Seite
+  PageBuilder_Value_Block_PageTeaser_ContentElement:
+    PLURALNAME: 'Seiten Teaser'
+    SINGULARNAME: 'Seiten Teaser'
+    TeaserReadMore: 'mehr lesen'
+    has_one_Page: Seite
+  PageBuilder_Value_Block_Text_ContentElement:
+    PLURALNAME: Texte
+    SINGULARNAME: Text
+    db_Content: Inhalt

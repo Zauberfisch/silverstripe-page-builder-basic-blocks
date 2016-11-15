@@ -1,0 +1,24 @@
+en:
+  MysiteLinkField:
+    __LinkModeCustom: 'Custom URL'
+    __LinkModeNone: none
+    __LinkModePage: Page
+  PageBuilder_Value_Block_ImageBanner_ContentElement:
+    __PLURALNAME: 'Page Builder Value Block Image Banner Content Elements'
+    __SINGULARNAME: 'Page Builder Value Block Image Banner Content Element'
+    __db_Height: Height
+    __db_LinkCustomURL: 'Link Custom URL'
+    __db_LinkMode: 'Link Mode'
+    __db_LinkNewTab: 'Link New Tab'
+    __db_Title: Title
+    __has_one_Image: Image
+    __has_one_LinkPage: 'Link Page'
+  PageBuilder_Value_Block_PageTeaser_ContentElement:
+    __PLURALNAME: 'Page Builder Value Block Page Teaser Content Elements'
+    __SINGULARNAME: 'Page Builder Value Block Page Teaser Content Element'
+    __TeaserReadMore: 'read more'
+    __has_one_Page: Page
+  PageBuilder_Value_Block_Text_ContentElement:
+    __PLURALNAME: 'Page Builder Value Block Text Content Elements'
+    __SINGULARNAME: 'Page Builder Value Block Text Content Element'
+    __db_Content: Content

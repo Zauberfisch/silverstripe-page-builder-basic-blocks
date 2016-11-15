@@ -1,0 +1,17 @@
+{
+	"name": "zauberfisch/silverstripe-page-builder-basic-blocks",
+	"description": "Basic blocks for the SilverStripe PageBuilder module",
+	"type": "silverstripe-module",
+	"license": "BSD-3-Clause",
+	"authors": [{
+		"name": "Zauberfisch",
+		"email": "code@zauberfisch.at"
+	}],
+	"require": {
+		"zauberfisch/silverstripe-page-builder": "~1.0",
+		"unclecheese/display-logic": "*"
+	},
+	"extra": {
+        "installer-name": "page-builder-basic-blocks"
+    }
+}
